@@ -1,8 +1,9 @@
 {
-  "name": "js-pack",
+  "name": "@dvdrtrgn/js-pack",
   "version": "1.0.0",
   "description": "Check this package",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
