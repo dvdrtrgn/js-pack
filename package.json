@@ -1,0 +1,23 @@
+{
+  "name": "js-pack",
+  "version": "1.0.0",
+  "description": "Check this package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dvdrtrgn/js-pack.git"
+  },
+  "keywords": [
+    "js",
+    "test"
+  ],
+  "author": "dvdrtrgn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dvdrtrgn/js-pack/issues"
+  },
+  "homepage": "https://github.com/dvdrtrgn/js-pack#readme"
+}
