@@ -1,6 +1,6 @@
 {
   "name": "@dvdrtrgn/js-pack",
-  "version": "1.0.0-1",
+  "version": "1.0.0-2",
   "description": "Check this package",
   "main": "index.js",
   "type": "module",
@@ -20,5 +20,5 @@
   "bugs": {
     "url": "https://github.com/dvdrtrgn/js-pack/issues"
   },
-  "homepage": "https://github.com/dvdrtrgn/js-pack#readme"
+  "homepage": "https://dvdrtrgn.github.io/js-pack/"
 }
