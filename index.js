@@ -1,5 +1,5 @@
-let tag = process.env.npm_package_name || 'DIRECT RUN?';
-console.log(tag, '\n');
+let tag = process.env.npm_package_name ? '' : 'LOADED @dvdrtrgn/js-pack';
+if (tag) console.log(tag, '\n');
 
 const dupe = (e) => e.slice();
 const reverse = (e) => dupe(e).reverse();

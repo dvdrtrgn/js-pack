@@ -1,4 +1,5 @@
 import R from '../index.js';
+// import R from '@dvdrtrgn/js-pack';
 import { ARR, STATES } from './data.js';
 
 let okay = true;
